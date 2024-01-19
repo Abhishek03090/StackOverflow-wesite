@@ -29,8 +29,6 @@ npm install
 npm start
 ```
 
-
-
 ## Contributions
 
 Contributions are always welcomed. Anyone can contribute to this project. Contributors will be given credits.
