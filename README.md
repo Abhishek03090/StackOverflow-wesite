@@ -29,12 +29,10 @@ npm install
 npm start
 ```
 
-## Pics of the application
-
 
 
 ## Live Link for the website:
-
+https://abhishek03090.github.io/StackOverflow-wesite/
 
 
 ## Contributions
