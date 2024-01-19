@@ -29,8 +29,6 @@ npm install
 npm start
 ```
 
-## Live Link for the website:
-https://abhishek03090.github.io/StackOverflow-wesite/
 
 
 ## Contributions
